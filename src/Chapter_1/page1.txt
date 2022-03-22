@@ -1,9 +1,9 @@
 
 
-this is start of my book
-page 1 will help us
+this is start of my book.
+page 1 will help us started.
 
-java is cool
+java is cool!
 
 james bond is always with us
 
