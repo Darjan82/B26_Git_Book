@@ -1,0 +1,4 @@
+so far we learned git  flow for
+commit--> loca;l
+and
+remote__>local
